@@ -1,13 +1,18 @@
-# Gatsby Demos
+# Pass data to layout
 
-This repository is mostly used to give examples on how to do things in gatsby when a tutorial or concept might not be grasped completely. Each branch holds a specific use case. All examples use any of the [official gatsby starters](https://www.gatsbyjs.org/starters/?c=Official&v=2) as an example.
+tutorial: https://www.gatsbyjs.org/blog/2019-02-26-getting-started-with-gatsby-themes/
 
-## How to get started
+## Description
 
-### 1. install [gatsby-cli](https://www.gatsbyjs.org/docs/quick-start/#install-the-gatsby-cli). `npm install -g gatsby-cli`
+This is a working example of the tutorial. So if it didn't work for you, you can have a look at this example to find what you did differently. Feel free to [open an issue at gatsby](https://github.com/gatsbyjs/gatsby/issues) to tell us how to improve.
 
-### 2. run gatsby-cli `gatsby new <folder name> https://github.com/wardpeet/gatsby-demos.git#<branch name>`.
+## Get started
 
-If you want to run pass-data-to-layout. You'll have to run `gatsby new pass-data-to-layout https://github.com/wardpeet/gatsby-demos.git#pass-data-to-layout`
+clone this example by running `gatsby new getting-started-gatsby-themes-mdx https://github.com/wardpeet/gatsby-demos.git# getting-started-gatsby-themes-mdx`
 
-### 3. cd into the folder and run `gatsby develop` like any other gatsby site
+## Demo
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2dcd925a-d8ff-4c94-a9c0-9b554b45091f/deploy-status)](https://app.netlify.com/sites/vigorous-bohr-d03f2f/deploys)
+
+Hosted on netlify:
+https://vigorous-bohr-d03f2f.netlify.com/

@@ -1,0 +1,22 @@
+{
+  "name": "theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.0.118",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.118",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "^1.0.16",
+    "@mdx-js/react": "^1.0.16",
+    "gatsby-mdx": "^0.6.3",
+    "gatsby-plugin-page-creator": "^2.0.12"
+  }
+}
