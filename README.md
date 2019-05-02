@@ -1,3 +1,22 @@
-# Gatsby Demos
+# Pass data to layout
 
-This repository is mostly used to give examples on how to do things in gatsby when a tutorial or concept might not be grasped completely. Each branch holds a specific use case. All examples use any of the [official gatsby starters](https://www.gatsbyjs.org/starters/?c=Official&v=2) as an example.
+issue: [#13793](https://github.com/gatsbyjs/gatsby/issues/13793)
+
+## Description
+
+In gatsby v2 we push people to wrap your page in a Layout component yourself. We encourage this to keep everything very explicit so there is no magic that's being done.
+
+For example this means
+
+```js
+// in src/pages/index.js
+
+import React from "react"
+import Layout from "../components/Layout"
+
+export default () => (
+  <Layout>
+    {/* page content is here, see how we wrapped our component inside Layout */}
+  </Layout>
+)
+```
