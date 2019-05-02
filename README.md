@@ -21,6 +21,10 @@ export default () => (
 )
 ```
 
+## Get started
+
+clone this example by running `gatsby new pass-data-to-layout https://github.com/wardpeet/gatsby-demos.git#pass-data-to-layout`
+
 ## Demo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2dcd925a-d8ff-4c94-a9c0-9b554b45091f/deploy-status)](https://app.netlify.com/sites/vigorous-bohr-d03f2f/deploys)
