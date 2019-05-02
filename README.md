@@ -6,7 +6,7 @@ This repository is mostly used to give examples on how to do things in gatsby wh
 
 ### 1. install [gatsby-cli](https://www.gatsbyjs.org/docs/quick-start/#install-the-gatsby-cli). `npm install -g gatsby-cli`
 
-### 2. run gatsby-cli `gatsby new <folder name> https://github.com/wardpeet/gatsby-demos.git#<branch name>.
+### 2. run gatsby-cli `gatsby new <folder name> https://github.com/wardpeet/gatsby-demos.git#<branch name>`.
 
 If you want to run pass-data-to-layout. You'll have to run `gatsby new pass-data-to-layout https://github.com/wardpeet/gatsby-demos.git#pass-data-to-layout`
 
