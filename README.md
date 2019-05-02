@@ -12,7 +12,7 @@ clone this example by running `gatsby new getting-started-gatsby-themes-mdx http
 
 ## Demo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2dcd925a-d8ff-4c94-a9c0-9b554b45091f/deploy-status)](https://app.netlify.com/sites/vigorous-bohr-d03f2f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2dcd925a-d8ff-4c94-a9c0-9b554b45091f/deploy-status)](https://app.netlify.com/sites/angry-leakey-c44208/deploys)
 
 Hosted on netlify:
-https://vigorous-bohr-d03f2f.netlify.com/
+https://angry-leakey-c44208.netlify.com/
