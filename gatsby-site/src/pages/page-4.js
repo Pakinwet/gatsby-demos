@@ -13,7 +13,7 @@ const SecondPage = () => (
       <li><Link to="/">Go to homepage</Link></li>
       <li><Link to="/page-2/">Go to page 2</Link></li>
       <li><Link to="/page-3/">Go to page 3</Link></li>
-      <li><Link to="/page-5/">Go to page 5</Link></li>
+      <li><Link to="/unknown-page">Go to page 5</Link></li>
     </ul>
   </Layout>
 )
