@@ -917,11 +917,6 @@
   resolved "https://registry.yarnpkg.com/@types/tmp/-/tmp-0.0.32.tgz#0d3cb31022f8427ea58c008af32b80da126ca4e3"
   integrity sha1-DTyzECL4Qn6ljACK8yuA2hJspOM=
 
-"@wardpeet/gatsby-plugin-static-site@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-static-site/-/gatsby-plugin-static-site-0.0.1.tgz#5639163cb924d7528c510303b6cb101bf66663c8"
-  integrity sha512-NdF8VVPZZQhlXPzzsMm44yktkpbxdfNSkc8Z57TshR5Jt5FDGn91ibSmhF2+gpzKYGyUIn2e3qDj4zRO6JR/gQ==
-
 "@webassemblyjs/ast@1.7.11":
   version "1.7.11"
   resolved "https://registry.yarnpkg.com/@webassemblyjs/ast/-/ast-1.7.11.tgz#b988582cafbb2b095e8b556526f30c90d057cace"
